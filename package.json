@@ -1,0 +1,20 @@
+{
+  "name": "vuepress-plugin-auto-sidebar",
+  "version": "0.1.0",
+  "keywords": [
+    "documentation",
+    "generator",
+    "vue",
+    "vuepress"
+  ],
+  "homepage": "",
+  "bugs": {
+    "url": "https://github.com/**/issues"
+  },
+  "license": "MIT",
+  "author": "Shoya Kai",
+  "main": "index.js",
+  "publishConfig": {
+    "access": "public"
+  }
+}
